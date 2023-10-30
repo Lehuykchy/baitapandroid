@@ -115,7 +115,7 @@ class MainActivity : AppCompatActivity() {
             value1 = value.toDouble()
         }
         numberclk = false
-//        binding.tvresuft.setText("")
+        binding.tvresuft.setText("")
 
     }
     fun tv_result() {
