@@ -18,7 +18,7 @@
             android:layout_height="?attr/actionBarSize" />
 
     </com.google.android.material.appbar.AppBarLayout>
-
-    <include layout="@layout/content_main" />
+UYh=
+    4
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

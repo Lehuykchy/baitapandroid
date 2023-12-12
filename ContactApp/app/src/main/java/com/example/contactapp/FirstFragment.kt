@@ -38,7 +38,7 @@ class FirstFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
         listItem = ArrayList()
         for (n in 1..10){
-            var item : Contact = Contact(n, "Le Quang Huy $n", "096654000", "lehuy@gmail.com")
+            var item : Contact = Contact(n, "Trần bá đức $n", "096654000", "lehuy@gmail.com")
             listItem.add(item)
         }
 
